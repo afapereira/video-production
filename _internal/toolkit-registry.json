@@ -63,6 +63,13 @@
       "status": "stable",
       "created": "2026-02-23",
       "updated": "2026-02-24"
+    },
+    "acestep": {
+      "path": ".claude/skills/acestep/",
+      "description": "AI music generation — prompt engineering, scene presets, lyrics formatting, video production integration",
+      "status": "beta",
+      "created": "2026-03-22",
+      "updated": "2026-03-22"
     }
   },
 
